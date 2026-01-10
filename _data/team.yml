@@ -1,0 +1,36 @@
+# Principal Investigator
+- name: "James R. Faeder"
+  role: "Principal Investigator"
+  image: "/assets/images/team/faeder.jpg"
+  bio: "Professor in the Department of Computational and Systems Biology. Pitt co-director of the Joint CMU-Pitt PhD Program in Computational Biology."
+  email: "faeder@pitt.edu"
+  website: ""
+  github: ""
+  twitter: ""
+  orcid: "https://orcid.org/YOUR-ORCID-ID"
+  order: 1
+
+# Postdoctoral Researchers
+# - name: "Postdoc Name"
+#   role: "Postdoctoral Researcher"
+#   image: "/assets/images/team/placeholder.jpg"
+#   bio: "Brief description of research interests and background."
+#   email: "email@pitt.edu"
+#   website: ""
+#   github: ""
+#   twitter: ""
+#   orcid: ""
+#   order: 2
+
+# Graduate Students
+# - name: "Student Name"
+#   role: "PhD Student"
+#   image: "/assets/images/team/placeholder.jpg"
+#   bio: "Research focus and interests."
+#   email: "email@pitt.edu"
+#   website: ""
+#   github: ""
+#   order: 3
+
+# Lab Alumni
+# Add alumni here with role: "Alumni" and they will appear in a separate section

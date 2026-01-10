@@ -1,0 +1,94 @@
+---
+layout: page
+title: Team
+description: Meet the researchers in the Faeder Lab
+---
+
+<section class="team-section">
+  <h2>Principal Investigator</h2>
+  <div class="team-grid">
+    {% assign pi = site.data.team | where: "role", "Principal Investigator" | sort: "order" %}
+    {% for member in pi %}
+      {% include team-member.html member=member %}
+    {% endfor %}
+  </div>
+</section>
+
+{% assign postdocs = site.data.team | where: "role", "Postdoctoral Researcher" | sort: "order" %}
+{% if postdocs.size > 0 %}
+<section class="team-section">
+  <h2>Postdoctoral Researchers</h2>
+  <div class="team-grid">
+    {% for member in postdocs %}
+      {% include team-member.html member=member %}
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+{% assign grads = site.data.team | where: "role", "PhD Student" | sort: "order" %}
+{% if grads.size > 0 %}
+<section class="team-section">
+  <h2>Graduate Students</h2>
+  <div class="team-grid">
+    {% for member in grads %}
+      {% include team-member.html member=member %}
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+{% assign undergrads = site.data.team | where: "role", "Undergraduate Student" | sort: "order" %}
+{% if undergrads.size > 0 %}
+<section class="team-section">
+  <h2>Undergraduate Students</h2>
+  <div class="team-grid">
+    {% for member in undergrads %}
+      {% include team-member.html member=member %}
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+{% assign staff = site.data.team | where: "role", "Research Staff" | sort: "order" %}
+{% if staff.size > 0 %}
+<section class="team-section">
+  <h2>Research Staff</h2>
+  <div class="team-grid">
+    {% for member in staff %}
+      {% include team-member.html member=member %}
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+{% assign alumni = site.data.team | where: "role", "Alumni" | sort: "order" %}
+{% if alumni.size > 0 %}
+<section class="team-section">
+  <h2>Lab Alumni</h2>
+  <div class="team-grid">
+    {% for member in alumni %}
+      {% include team-member.html member=member %}
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+<section class="team-section">
+  <h2>Join Our Team</h2>
+  <div class="content">
+    <p>
+      We are always looking for motivated researchers interested in computational biology,
+      systems biology, and rule-based modeling. If you're interested in joining the lab,
+      please contact Dr. Faeder at <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>.
+    </p>
+    <p>
+      <strong>Current opportunities:</strong>
+    </p>
+    <ul>
+      <li>Postdoctoral positions in computational systems biology</li>
+      <li>Graduate students through the CMU-Pitt Computational Biology PhD program</li>
+      <li>Undergraduate research positions for Pitt students</li>
+    </ul>
+  </div>
+</section>

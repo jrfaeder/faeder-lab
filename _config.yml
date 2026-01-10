@@ -1,0 +1,54 @@
+# Site settings
+title: "Faeder Lab"
+description: "Computational Systems Biology at the University of Pittsburgh"
+url: "https://jrfaeder.io" # Update with your GitHub username
+baseurl: "/faeder-lab" # Update if using a project site (e.g., /faeder-lab)
+
+# Site author
+author:
+  name: "James R. Faeder"
+  email: "faeder@pitt.edu"
+  affiliation: "Department of Computational and Systems Biology, University of Pittsburgh"
+  address: "3420 Forbes Avenue, Pittsburgh, PA 15260"
+  orcid: "https://orcid.org/0000-0001-8127-609X" # Update with your ORCID
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Collections
+collections:
+  research:
+    output: true
+    permalink: /research/:name/
+
+# Navigation
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Team"
+    url: /team/
+  - title: "Publications"
+    url: /publications/
+  - title: "BioNetGen"
+    url: http://bionetgen.org
+    external: true
+
+# Social links
+social:
+  twitter: "" # Add your Twitter handle if you have one
+  github: "" # Add your GitHub username
+  youtube: "" # Add your YouTube channel if you have one
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.md

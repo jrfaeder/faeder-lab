@@ -1,0 +1,51 @@
+---
+layout: default
+---
+<div class="hero">
+  <div class="container">
+    <div class="hero-content">
+      <div class="hero-text">
+        <h1>{{ page.hero.title }}</h1>
+        <p class="lead">{{ page.hero.subtitle }}</p>
+        <div class="hero-buttons">
+          {% for button in page.hero.buttons %}
+            <a href="{{ button.url | relative_url }}" class="btn {% if button.primary %}btn-primary{% else %}btn-secondary{% endif %}">
+              {{ button.text }}
+            </a>
+          {% endfor %}
+        </div>
+      </div>
+      {% if page.hero.image %}
+      <div class="hero-image">
+        <img src="{{ page.hero.image | relative_url }}" alt="{{ site.author.name }}">
+      </div>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="content">
+    {{ content }}
+  </div>
+</div>
+
+{% if page.highlights %}
+<section class="highlights">
+  <div class="container">
+    <div class="highlights-grid">
+      {% for item in page.highlights %}
+      <div class="highlight-card">
+        <h3>{{ item.title }}</h3>
+        <p>{{ item.description }}</p>
+        {% if item.link %}
+          <a href="{{ item.link.url | relative_url }}" class="link-arrow">
+            {{ item.link.text }} →
+          </a>
+        {% endif %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}
