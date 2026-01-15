@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 description: Research publications from the Faeder Lab
+permalink: /publications/
 ---
 
 For a complete and up-to-date list of publications, please visit Dr. Faeder's [ORCID profile]({{ site.author.orcid }}).

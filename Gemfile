@@ -3,6 +3,9 @@ source "https://rubygems.org"
 # Use github-pages gem which includes compatible Jekyll and plugins
 gem "github-pages", group: :jekyll_plugins
 
+# Required for Ruby 3.0+ (webrick is no longer bundled)
+gem "webrick", "~> 1.8"
+
 # Windows and JRuby does not include zoneinfo files
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", ">= 1", "< 3"

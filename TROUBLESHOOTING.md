@@ -25,7 +25,7 @@
 
 **How to find it:**
 - Check the error message for the file name
-- Look for unmatched `{%` or `{{` brackets
+- Look for unmatched {% raw %}`{%`{% endraw %} or {% raw %}`{{`{% endraw %} brackets
 - Check for missing `endfor` or `endif` tags
 
 **Solution:**
@@ -196,7 +196,7 @@ If build is failing, try these in order:
 
 | Error | What It Means | Fix |
 |-------|---------------|-----|
-| "Liquid syntax error" | Template code is broken | Check `{%` and `{{` brackets match |
+| "Liquid syntax error" | Template code is broken | Check {% raw %}`{%`{% endraw %} and {% raw %}`{{`{% endraw %} brackets match |
 | "YAML exception" | Front matter is invalid | Check indentation and quotes |
 | "Could not find gem" | Missing dependency | Check Gemfile |
 | "404 not found" | Wrong baseurl | Update `_config.yml` |

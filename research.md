@@ -2,6 +2,7 @@
 layout: page
 title: Research
 description: Computational approaches to understanding biological regulatory networks
+permalink: /research/
 ---
 
 Our research focuses on developing mathematical and computational methods for understanding complex biological systems, particularly cellular signaling networks.
