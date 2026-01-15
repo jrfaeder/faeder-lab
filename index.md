@@ -53,4 +53,4 @@ Our lab develops and maintains [BioNetGen](http://bionetgen.org), a widely-used 
 
 We are part of the [Department of Computational and Systems Biology](https://www.csb.pitt.edu/) at the University of Pittsburgh and collaborate with researchers across computational biology, systems biology, immunology, and cancer research.
 
-Dr. Faeder serves as Pitt co-director of the [Joint Carnegie Mellon–University of Pittsburgh PhD Program in Computational Biology](https://www.compbio.cmu.edu/).
+Dr. Faeder is former Pitt co-director of the [Joint Carnegie Mellon–University of Pittsburgh PhD Program in Computational Biology](https://www.compbio.cmu.edu/) (2016-2025)
