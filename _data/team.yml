@@ -46,9 +46,19 @@
   bio: "CPCB PhD Student (co-advised with Dr. William Hawse)."
   email: ""
   website: ""
-  github: ""
+  github: "https://github.com/efranken-25"
   orcid: "https://orcid.org/0000-0002-3388-6018"
   order: 5
+
+  - name: "Emma Franken"
+  role: "Master's Student
+  image: "/assets/images/team/placeholder.jpg"
+  bio: MSCB student from Carnegie Mellon University
+  email: ""
+  website: ""
+  github: "https://github.com/"
+  orcid: "https://orcid.org/0009-0007-8801-9337"
+  order: 6
 
 # Lab Alumni
 - name: "Ali Sinan Saglam, PhD"
