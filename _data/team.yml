@@ -349,3 +349,14 @@
   twitter: ""
   orcid: ""
   order: 59
+
+- name: "Katie Yonosh"
+  role: "Alumni"
+  image: "/assets/images/team/placeholder.jpg"
+  bio: "Former Undergraduate Student."
+  email: ""
+  website: ""
+  github: ""
+  twitter: ""
+  orcid: ""
+  order: 60
