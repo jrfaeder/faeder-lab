@@ -338,3 +338,14 @@
   twitter: ""
   orcid: "https://orcid.org/0000-0002-4422-938X"
   order: 58
+
+- name: "Neha Cheemalavagu"
+  role: "Alumni"
+  image: "/assets/images/team/placeholder.jpg"
+  bio: "Former PhD Student (co-advised with Dr. Rachel Gottschalk). Current: Bioinformatician at AstraZeneca."
+  email: ""
+  website: ""
+  github: ""
+  twitter: ""
+  orcid: ""
+  order: 59
