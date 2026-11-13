@@ -8,4 +8,4 @@ links:
   orcid: 0009-0001-2704-6119
 ---
 
-PhD student, co-advised with Dr. Rachel Gottschalk (Immunology). Models cytokine signaling and gene regulation in immune cells.
+PhD student, co-advised with Dr. Rachel Gottschalk (Immunology). Integrating signaling and sequence-to-function models to predict gene expression.
