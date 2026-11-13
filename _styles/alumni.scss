@@ -1,0 +1,22 @@
+---
+---
+
+.alumni-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 20px 30px;
+  margin: 20px 0;
+}
+
+.alumni-item {
+  line-height: var(--compact);
+}
+
+.alumni-role {
+  color: var(--dark-gray);
+}
+
+.alumni-now {
+  color: var(--gray);
+  font-size: 0.95em;
+}

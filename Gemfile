@@ -1,19 +1,16 @@
 source "https://rubygems.org"
 
-# Use github-pages gem which includes compatible Jekyll and plugins
-gem "github-pages", group: :jekyll_plugins
+# jekyll
+gem "jekyll", "~> 4.3"
+gem "webrick", "~> 1.7"
 
-# Required for Ruby 3.0+ (webrick is no longer bundled)
-gem "webrick", "~> 1.8"
+gem "html-proofer", "~> 5.0"
 
-# Windows and JRuby does not include zoneinfo files
-platforms :mingw, :x64_mingw, :mswin, :jruby do
-  gem "tzinfo", ">= 1", "< 3"
-  gem "tzinfo-data"
+# plugins
+group :jekyll_plugins do
+  gem "jekyll-spaceship"
+  gem "jekyll-sitemap"
+  gem "jekyll-redirect-from"
+  gem "jekyll-feed"
+  gem "jekyll-last-modified-at"
 end
-
-# Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
-
-# Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds
-gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]

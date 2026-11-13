@@ -1,56 +1,105 @@
 ---
-layout: home
-title: Home
-hero:
-  title: "Faeder Lab"
-  subtitle: "Developing mathematical models and computational tools for understanding biological regulatory processes"
-  image: "/assets/images/faeder.jpg"
-  buttons:
-    - text: "Our Research"
-      url: "/research/"
-      primary: true
-    - text: "Meet the Team"
-      url: "/team/"
-      primary: false
-
-highlights:
-  - title: "Rule-Based Modeling"
-    description: "We develop and maintain BioNetGen, a powerful framework for rule-based specification and simulation of biochemical reaction networks."
-    link:
-      text: "Learn more"
-      url: "/research/#bionetgen"
-  - title: "Signal Transduction"
-    description: "Our research focuses on creating detailed computational models of cellular signaling pathways and their regulation."
-    link:
-      text: "Explore research"
-      url: "/research/"
-  - title: "Computational Methods"
-    description: "We create novel algorithms for stochastic simulation, model reduction, and parameter estimation in complex biological systems."
-    link:
-      text: "View publications"
-      url: "/publications/"
 ---
 
-## Welcome to the Faeder Lab
+# Modeling how cells process information
 
-Our laboratory is dedicated to developing mathematical models of biological regulatory processes, with a particular focus on signal transduction networks. We create and maintain computational tools that enable researchers to build, simulate, and analyze complex biochemical systems.
+We build mathematical models and computational tools to understand how cells sense, process, and respond to information.
+Our work combines **rule-based modeling**, **stochastic simulation**, and **statistical inference** with close experimental collaborations in immunology, virology, and cell signaling.
+We develop and maintain [BioNetGen](https://bionetgen.org), a widely used open-source platform for rule-based modeling.
 
-### Research Focus
+{%
+  include button.html
+  link="research"
+  text="Our research"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+%}
+{%
+  include button.html
+  link="team"
+  text="Join us"
+  icon="fa-solid fa-user-plus"
+  flip=true
+  style="bare"
+%}
 
-The Faeder Lab specializes in:
+{% include section.html %}
 
-- **Rule-based modeling**: Developing efficient methods for specifying and simulating large-scale biochemical networks
-- **Stochastic simulation**: Creating advanced algorithms for modeling random processes in biological systems
-- **Signal transduction**: Building detailed models of cellular signaling pathways and receptor dynamics
-- **Model analysis**: Developing techniques for parameter estimation, uncertainty quantification, and model reduction
-- **Automated model construction**: Building tools that generate models from protein interaction databases
+{% capture text %}
+From receptor signaling and cytokine networks to viral replication and gene expression, we build mechanistic models that are detailed enough to test against data and make predictions.
 
-### BioNetGen
+{%
+  include button.html
+  link="research"
+  text="Research areas and publications"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+{% endcapture %}
 
-Our lab develops and maintains [BioNetGen](http://bionetgen.org), a widely-used software platform for rule-based modeling of biochemical systems. BioNetGen allows researchers to compactly represent complex molecular interactions and simulate them using both deterministic and stochastic methods.
+{%
+  include feature.html
+  image="images/projects/bionetgen.png"
+  link="research"
+  title="Research"
+  text=text
+%}
 
-### Collaborative Research
+{% capture text %}
+BioNetGen, NFsim, PyBioNetGen, BNG Playground, and an open textbook. Our software is free, open source, and used by modeling groups around the world.
 
-We are part of the [Department of Computational and Systems Biology](https://www.csb.pitt.edu/) at the University of Pittsburgh and collaborate with researchers across computational biology, systems biology, immunology, and cancer research.
+{%
+  include button.html
+  link="projects"
+  text="Software and resources"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+{% endcapture %}
 
-Dr. Faeder is former Pitt co-director of the [Joint Carnegie Mellon–University of Pittsburgh PhD Program in Computational Biology](https://www.compbio.cmu.edu/) (2016-2025)
+{%
+  include feature.html
+  image="images/projects/playground.png"
+  link="projects"
+  title="Software"
+  flip=true
+  text=text
+%}
+
+{% capture text %}
+Postdocs, graduate students in CPCB, Physics, and other programs, Master's students, and undergraduates, along with more than two decades of alumni.
+
+{%
+  include button.html
+  link="team"
+  text="Meet the team"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/team/james-faeder.jpg"
+  link="team"
+  title="Team"
+  text=text
+%}
+
+{% include section.html %}
+
+## News
+
+{% include list.html data="posts" component="post-excerpt" %}
+
+{%
+  include button.html
+  link="blog"
+  text="All news"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}

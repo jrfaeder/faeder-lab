@@ -1,0 +1,95 @@
+# Lab alumni, shown on the Team page. Keep alphabetical by last name.
+# Fields: name, role (position held in lab), now (current position, optional), orcid (optional)
+
+- name: Kunal Aggarwal
+  role: PhD Student
+  now: Senior Researcher at University of Pittsburgh
+- name: Arshi Arora, M.S.
+  role: Master's Student
+  now: Principal Scientist at Incyte
+- name: Naina Balepur
+  role: Undergraduate Student
+  now: Ph.D. Candidate in Computer Science at University of Illinois Urbana-Champaign
+  orcid: 0009-0005-1155-3705
+- name: Dipak Barua, Ph.D.
+  role: Postdoctoral Researcher
+  now: Scientist at Sanofi
+  orcid: 0000-0001-8394-1233
+- name: Davis Buenger
+  role: Undergraduate Researcher (BBSI), 2009
+- name: Neha Cheemalavagu
+  role: PhD Student (co-advised with Dr. Rachel Gottschalk)
+  now: Bioinformatician at AstraZeneca
+- name: Robert Clark, Ph.D.
+  role: Researcher (PhD)
+- name: Emma Franken
+  role: Master's Student (CMU), 2026
+- name: McKenzie Grundy, B.A.
+  role: Undergraduate Student
+  now: Researcher in Yanowitz Lab at University of Pittsburgh
+- name: Sanjana Gupta
+  role: PhD Student (co-advised with Dr. Robin Lee)
+  now: Computational Biologist at 10x Genomics
+  orcid: 0000-0002-3440-0075
+- name: Leonard Harris, Ph.D.
+  role: Postdoctoral Associate
+  now: Assistant Professor at University of Arkansas (Biomedical Engineering)
+- name: Justin Hogg, Ph.D.
+  role: PhD Student
+  now: Senior Software Engineer at Apple
+- name: Cihan Kaya
+  role: PhD Student (co-advised with Dr. Ivet Bahar)
+  now: Director, Informatics & Scientific Computing at Sonic Healthcare USA
+  orcid: 0000-0003-2524-8072
+- name: Ilya Korsunsky, Ph.D.
+  role: Undergraduate Researcher (CMACS), 2010
+  now: Assistant Professor at Harvard Medical School and PI at Brigham and Women's Hospital
+  orcid: 0000-0003-4848-3948
+- name: Caroline Larkin
+  role: PhD Student
+  now: Postdoctoral Research Associate at University of Pittsburgh
+- name: Jintao Liu, Ph.D.
+  role: Postdoctoral Researcher
+  now: Associate Professor at Tsinghua University
+  orcid: 0000-0002-6710-2605
+- name: Kaiser Loell, M.S.
+  role: Master's Student
+  now: Postdoctoral Research Fellow at Cold Spring Harbor Laboratory
+- name: Natasa Miskov-Zivanov, Ph.D.
+  role: PhD Student and Postdoctoral Researcher
+  now: Associate Professor at University of Pittsburgh
+  orcid: 0000-0001-9487-9359
+- name: Mate Nagy, Ph.D.
+  role: Undergraduate Researcher (CMACS), 2010
+  now: Director of Clinical Artificial Intelligence at Fulgent Genetics
+- name: Niketh Nair, B.S.
+  role: Undergraduate Student
+  now: Postdoctoral Research Associate at Oak Ridge National Laboratory
+  orcid: 0000-0002-8871-6286
+- name: Ali Sinan Saglam, PhD
+  role: Postdoctoral Associate
+  now: Computational Chemist at VantAI
+- name: Robert Seay, B.S.
+  role: Undergraduate Student
+- name: John Sekar, Ph.D.
+  role: PhD Student
+  now: Postdoctoral Scholar at Mt. Sinai School of Medicine
+  orcid: 0000-0002-1605-8130
+- name: Robert Sheehan, Ph.D.
+  role: PhD Student
+  now: Senior Modeler at Rosa & Co. LLC
+- name: Laura Strube, Ph.D.
+  role: Postdoctoral Associate (co-advised with Dr. Rachel Gottschalk), 2023–2026
+  now: Adjunct Assistant Professor, University of Pittsburgh
+- name: Jose Juan Tapia Valenzuela, Ph.D.
+  role: PhD Student
+  now: Senior Data Scientist at Bayer Crop Science
+- name: Yang Yang, Ph.D.
+  role: PhD Student
+  now: Postdoctoral Researcher at Memorial Sloan Kettering Cancer Center
+- name: Nilgun Yilmaz
+  role: Undergraduate Researcher (BBSI), 2009
+  now: Data Scientist and PhD Student at Vrije Universiteit Amsterdam
+  orcid: 0000-0002-4422-938X
+- name: Katie Yonosh
+  role: Undergraduate Student

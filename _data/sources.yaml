@@ -1,0 +1,34 @@
+# Hand-curated additions to the ORCID list.
+# An entry with the same id as an ORCID work overrides/extends it (adds description, tags).
+# `group: highlighted` puts a paper in the "Highlighted" section of the Research page.
+
+- id: doi:10.1038/s41540-026-00840-x
+  group: highlighted
+  publisher: npj Systems Biology and Applications
+  description: A mechanistic model of SOS-mediated Ras activation shows how processive enzyme activity can generate digital, switch-like signaling.
+  tags:
+    - signal transduction
+
+- id: doi:10.1371/journal.pcbi.1013082
+  group: highlighted
+  description: A detailed kinetic model of the Eastern equine encephalitis virus replication cycle in a susceptible host cell.
+  tags:
+    - viral replication
+
+- id: doi:10.1016/J.CELS.2023.12.006
+  group: highlighted
+  description: Combining a mechanistic JAK-STAT model with machine learning to predict which genes are sensitive to signaling perturbations.
+  tags:
+    - cytokine signaling
+
+- id: doi:10.1371/JOURNAL.PCBI.1011800
+  group: highlighted
+  description: MCell4 integrates BioNetGen rule-based modeling with Monte Carlo reaction-diffusion simulation in 3D cellular geometries.
+  tags:
+    - spatial simulation
+
+- id: doi:10.1093/BIOINFORMATICS/BTW469
+  group: highlighted
+  description: BioNetGen 2.2, the lab's widely used software for rule-based modeling of biochemical systems.
+  tags:
+    - software

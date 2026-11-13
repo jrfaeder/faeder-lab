@@ -1,0 +1,70 @@
+- title: BioNetGen
+  subtitle: Rule-based modeling framework
+  group: featured
+  image: images/projects/bionetgen.png
+  link: https://bionetgen.org
+  description: Specify biochemical systems compactly as rules for molecular interactions, then simulate them with ODE, stochastic, and network-free methods. Developed and maintained by the lab.
+  repo: RuleWorld/bionetgen
+  tags:
+    - software
+
+- title: BNG Playground
+  subtitle: Rule-based modeling in the browser
+  group: featured
+  image: images/projects/playground.png
+  link: https://ruleworld.github.io/bngplayground/
+  description: Write, simulate, and visualize BioNetGen models directly in a web browser, with no installation.
+  repo: jrfaeder/bngplayground
+  tags:
+    - software
+    - teaching
+
+- title: Rule-Based Modeling of Biological Systems
+  subtitle: Open book and course
+  group: featured
+  image: images/projects/book.png
+  link: https://ruleworld.github.io/bionetgen-book/
+  description: An open book, course, and training manual for rule-based modeling with BioNetGen.
+  repo: RuleWorld/bionetgen-book
+  tags:
+    - teaching
+
+- title: PyBioNetGen
+  subtitle: Python interface and CLI
+  link: https://github.com/RuleWorld/PyBioNetGen
+  description: A command-line tool and Python library for running and analyzing BioNetGen models.
+  repo: RuleWorld/PyBioNetGen
+  tags:
+    - software
+
+- title: NFsim
+  subtitle: Network-free stochastic simulator
+  link: https://github.com/RuleWorld/nfsim
+  description: Agent-based stochastic simulation of rule-based models whose reaction networks are too large to enumerate.
+  repo: RuleWorld/nfsim
+  tags:
+    - software
+
+- title: BioNetGen for VS Code
+  subtitle: Editor extension
+  link: https://github.com/RuleWorld/BNG_vscode_extension
+  description: Syntax highlighting, running, and plotting of BioNetGen models inside Visual Studio Code.
+  repo: RuleWorld/BNG_vscode_extension
+  tags:
+    - software
+
+- title: Atomizer
+  subtitle: Reaction networks to rules
+  link: https://ruleworld.github.io/atomizer/
+  description: Translates conventional SBML reaction-network models into rule-based BioNetGen models.
+  repo: RuleWorld/atomizer
+  tags:
+    - software
+
+- title: Intro to Rule-Based Modeling
+  subtitle: Tutorial notebooks
+  link: https://github.com/jrfaeder/RBM_Intro_BioNetGen
+  description: Hands-on Jupyter notebooks introducing rule-based modeling with BioNetGen.
+  repo: jrfaeder/RBM_Intro_BioNetGen
+  tags:
+    - teaching

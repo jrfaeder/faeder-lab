@@ -1,0 +1,2320 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: doi:10.1038/s41540-026-00840-x
+  title: Mathematical modeling of processive Ras activation by SOS reveals a general
+    mechanism for digital signaling
+  authors:
+  - Katherine A. Yonosh
+  - James R. Faeder
+  publisher: npj Systems Biology and Applications
+  date: '2026-10-14'
+  link: https://doi.org/hcshhd
+  orcid: 0000-0001-8127-609X
+  plugin: sources.py
+  file: sources.yaml
+  group: highlighted
+  description: A mechanistic model of SOS-mediated Ras activation shows how processive
+    enzyme activity can generate digital, switch-like signaling.
+  tags:
+  - signal transduction
+- id: doi:10.64898/2026.02.08.704470
+  title: Intercellular Communication via Mitotic Nanotubes is Influenced by Connexin-43
+    Trafficking and Actin Remodeling
+  authors:
+  - A. Cooper
+  - S. Cetin-Ferra
+  - K.A. Yonosh
+  - A. Hinton
+  - A. Marshall
+  - J. R. Faeder
+  - S.A. Murray
+  publisher: openRxiv
+  date: '2026-02-09'
+  link: https://doi.org/hcshhf
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1013082
+  title: A detailed kinetic model of Eastern equine encephalitis virus replication
+    in a susceptible host cell
+  authors:
+  - Caroline I. Larkin
+  - Matthew D. Dunn
+  - Jason E. Shoemaker
+  - William B. Klimstra
+  - James R. Faeder
+  publisher: PLOS Computational Biology
+  date: '2025-06-04'
+  link: https://doi.org/hcshhg
+  orcid: 0000-0001-8127-609X
+  plugin: sources.py
+  file: sources.yaml
+  group: highlighted
+  description: A detailed kinetic model of the Eastern equine encephalitis virus replication
+    cycle in a susceptible host cell.
+  tags:
+  - viral replication
+- id: doi:10.1186/S12974-025-03591-4
+  title: STAT3 S727 phosphorylation drives pathogenic Th17 differentiation and neuroinflammation
+    in autoimmune disease
+  authors:
+  - Douglas S. Prado
+  - Achyudhan R. Kutuva
+  - Richard T. Cattley
+  - Andreza Buzolin Sonego
+  - Parth Sutariya
+  - Elena Im
+  - Shuxian Wu
+  - Mijoon Lee
+  - Rachel L. Cumberland
+  - Isha Mehta
+  - Greg M. Delgoffe
+  - William C. Boggess
+  - James R. Faeder
+  - Mark J. Shlomchik
+  - William F. Hawse
+  publisher: Journal of Neuroinflammation
+  date: '2025-10-28'
+  link: https://doi.org/hcshhj
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/JOURNAL.PCBI.1011800
+  title: 'MCell4 with BioNetGen: A Monte Carlo simulator of rule-based reaction-diffusion
+    systems with Python interface'
+  authors:
+  - Adam Husar
+  - Mariam Ordyan
+  - Guadalupe C. Garcia
+  - Joel G. Yancey
+  - Ali S. Saglam
+  - James R. Faeder
+  - Thomas M. Bartol
+  - Mary B. Kennedy
+  - Terrence J. Sejnowski
+  publisher: PLOS Computational Biology
+  date: '2024-04-24'
+  link: https://doi.org/hcshhm
+  orcid: 0000-0001-8127-609X
+  plugin: sources.py
+  file: sources.yaml
+  group: highlighted
+  description: MCell4 integrates BioNetGen rule-based modeling with Monte Carlo reaction-diffusion
+    simulation in 3D cellular geometries.
+  tags:
+  - spatial simulation
+- id: doi:10.1016/J.CELS.2023.12.006
+  title: Predicting gene-level sensitivity to JAK-STAT signaling perturbation using
+    a mechanistic-to-machine learning framework
+  authors:
+  - Neha Cheemalavagu
+  - Karsen E. Shoger
+  - Yuqi M. Cao
+  - Brandon A. Michalides
+  - Samuel A. Botta
+  - James R. Faeder
+  - Rachel A. Gottschalk
+  publisher: Cell Systems
+  date: '2024-01-01'
+  link: https://doi.org/hcshhn
+  orcid: 0000-0001-8127-609X
+  plugin: sources.py
+  file: sources.yaml
+  group: highlighted
+  description: Combining a mechanistic JAK-STAT model with machine learning to predict
+    which genes are sensitive to signaling perturbations.
+  tags:
+  - cytokine signaling
+- id: doi:10.1101/2022.10.04.510803
+  title: A Suite of Advanced Tutorials for the WESTPA 2.0 Rare-Events Sampling Software
+    [Article v0.1]
+  authors:
+  - Anthony T. Bogetti
+  - Jeremy M. G. Leung
+  - John D. Russo
+  - She Zhang
+  - Jeff P. Thompson
+  - Ali S. Saglam
+  - Dhiman Ray
+  - Rhea C. Abraham
+  - James R. Faeder
+  - Ioan Andricioaei
+  - Joshua L. Adelman
+  - Matthew C. Zwier
+  - David N. LeBard
+  - Daniel M. Zuckerman
+  - Lillian T. Chong
+  publisher: openRxiv
+  date: '2022-10-07'
+  link: https://doi.org/hcshhr
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.33011/livecoms.5.1.1655
+  title: A Suite of Tutorials for the WESTPA 2.0 Rare-Events Sampling Software [Article
+    v2.0]
+  authors:
+  - Anthony T. Bogetti
+  - Jeremy M. G. Leung
+  - John D. Russo
+  - She Zhang
+  - Jeff P. Thompson
+  - Ali S. Saglam
+  - Dhiman Ray
+  - Barmak Mostofian
+  - A. J. Pratt
+  - Rhea C. Abraham
+  - Page O. Harrison
+  - Max Dudek
+  - Paul A. Torrillo
+  - Alex J. DeGrave
+  - Upendra Adhikari
+  - James R. Faeder
+  - Ioan Andricioaei
+  - Joshua L. Adelman
+  - Matthew C. Zwier
+  - David N. LeBard
+  - Daniel M. Zuckerman
+  - Lillian T. Chong
+  publisher: Living Journal of Computational Molecular Science
+  date: '2023-04-10'
+  link: https://doi.org/hcshhs
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/NAR/GKAC331
+  title: 'BioSimulators: a central registry of simulation engines and services for
+    recommending specific tools'
+  authors:
+  - Bilal Shaikh
+  - Lucian P Smith
+  - Dan Vasilescu
+  - Gnaneswara Marupilla
+  - Michael Wilson
+  - Eran Agmon
+  - Henry Agnew
+  - Steven S Andrews
+  - Azraf Anwar
+  - Moritz E Beber
+  - Frank T Bergmann
+  - David Brooks
+  - Lutz Brusch
+  - Laurence Calzone
+  - Kiri Choi
+  - Joshua Cooper
+  - John Detloff
+  - Brian Drawert
+  - Michel Dumontier
+  - "G\_Bard Ermentrout"
+  - "James\_R Faeder"
+  - "Andrew\_P Freiburger"
+  - "Fabian Fr\xF6hlich"
+  - Akira Funahashi
+  - Alan Garny
+  - "John\_H Gennari"
+  - Padraig Gleeson
+  - Anne Goelzer
+  - Zachary Haiman
+  - Jan Hasenauer
+  - "Joseph\_L Hellerstein"
+  - Henning Hermjakob
+  - Stefan Hoops
+  - "Jon\_C Ison"
+  - Diego Jahn
+  - "Henry\_V Jakubowski"
+  - Ryann Jordan
+  - "Mat\xFA\u0161 Kala\u0161"
+  - "Matthias K\xF6nig"
+  - Wolfram Liebermeister
+  - "Rahuman\_S Malik Sheriff"
+  - Synchon Mandal
+  - Robert McDougal
+  - "J\_Kyle Medley"
+  - Pedro Mendes
+  - "Robert M\xFCller"
+  - "Chris\_J Myers"
+  - Aurelien Naldi
+  - Tung V N Nguyen
+  - "David\_P Nickerson"
+  - "Brett\_G Olivier"
+  - Drashti Patoliya
+  - "Lo\xEFc Paulev\xE9"
+  - "Linda\_R Petzold"
+  - Ankita Priya
+  - "Anand\_K Rampadarath"
+  - Johann M Rohwer
+  - "Ali\_S Saglam"
+  - Dilawar Singh
+  - Ankur Sinha
+  - Jacky Snoep
+  - Hugh Sorby
+  - Ryan Spangler
+  - "J\xF6rn Starru\xDF"
+  - "Payton\_J Thomas"
+  - "David van\_Niekerk"
+  - Daniel Weindl
+  - Fengkai Zhang
+  - Anna Zhukova
+  - "Arthur\_P Goldberg"
+  - "James\_C Schaff"
+  - "Michael\_L Blinov"
+  - "Herbert\_M Sauro"
+  - "Ion\_I Moraru"
+  - "Jonathan\_R Karr"
+  publisher: Nucleic Acids Research
+  date: '2022-05-07'
+  link: https://doi.org/gp6z7j
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/FSYSB.2022.822606
+  title: 'Model Integration in Computational Biology: The Role of Reproducibility,
+    Credibility and Utility'
+  authors:
+  - Jonathan Karr
+  - Rahuman S. Malik-Sheriff
+  - James Osborne
+  - Gilberto Gonzalez-Parra
+  - Eric Forgoston
+  - Ruth Bowness
+  - Yaling Liu
+  - Robin Thompson
+  - Winston Garira
+  - Jacob Barhak
+  - John Rice
+  - Marcella Torres
+  - Hana M. Dobrovolny
+  - Tingting Tang
+  - William Waites
+  - James A. Glazier
+  - James R. Faeder
+  - Alexander Kulesza
+  publisher: Frontiers in Systems Biology
+  date: '2022-03-07'
+  link: https://doi.org/gs6zs5
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.10.28.514312
+  title: 'WEBNG: A templating tool for weighted ensemble sampling of rule-based models'
+  authors:
+  - Ali Sinan Saglam
+  - James R. Faeder
+  publisher: openRxiv
+  date: '2022-10-31'
+  link: https://doi.org/hcshht
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1009689
+  title: Combination treatment optimization using a pan-cancer pathway model
+  authors:
+  - Robin Schmucker
+  - Gabriele Farina
+  - James Faeder
+  - "Fabian Fr\xF6hlich"
+  - Ali Sinan Saglam
+  - Tuomas Sandholm
+  publisher: PLOS Computational Biology
+  date: '2021-12-28'
+  link: https://doi.org/gsxndp
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1091/MBC.E20-08-0530
+  title: Quantifying the roles of space and stochasticity in computer simulations
+    for cell biology and cellular biochemistry
+  authors:
+  - M. E. Johnson
+  - A. Chen
+  - J. R. Faeder
+  - P. Henning
+  - I. I. Moraru
+  - M. Meier-Schellersheim
+  - R. F. Murphy
+  - "T. Pr\xFCstel"
+  - J. A. Theriot
+  - A. M. Uhrmacher
+  publisher: Molecular Biology of the Cell
+  date: '2021-01-15'
+  link: https://doi.org/gsfcv5
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1007669
+  title: Parallel Tempering with Lasso for model reduction in systems biology
+  authors:
+  - Sanjana Gupta
+  - Robin E. C. Lee
+  - James R. Faeder
+  publisher: PLOS Computational Biology
+  date: '2020-03-09'
+  link: https://doi.org/hcshhv
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/JOURNAL.PCBI.1007669.R004
+  title: ''
+  authors: []
+  publisher: Public Library of Science (PLoS)
+  date: ''
+  link: https://doi.org/hcshhx
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.04.02.019075
+  title: Iterative community-driven development of a SARS-CoV-2 tissue simulator
+  authors:
+  - Michael Getz
+  - Yafei Wang
+  - Gary An
+  - Maansi Asthana
+  - Andrew Becker
+  - Chase Cockrell
+  - Nicholson Collier
+  - Morgan Craig
+  - Courtney L. Davis
+  - James R. Faeder
+  - Ashlee N. Ford Versypt
+  - Tarunendu Mapder
+  - Juliano F. Gianlupi
+  - James A. Glazier
+  - Sara Hamis
+  - Randy Heiland
+  - Thomas Hillen
+  - Dennis Hou
+  - Mohammad Aminul Islam
+  - Adrianne L. Jenner
+  - Furkan Kurtoglu
+  - Caroline I. Larkin
+  - Bing Liu
+  - Fiona Macfarlane
+  - Pablo Maygrundter
+  - Penelope A Morel
+  - Aarthi Narayanan
+  - Jonathan Ozik
+  - Elsje Pienaar
+  - Padmini Rangamani
+  - Ali Sinan Saglam
+  - Jason Edward Shoemaker
+  - Amber M. Smith
+  - Jordan J.A. Weaver
+  - Paul Macklin
+  publisher: openRxiv
+  date: '2020-04-05'
+  link: https://doi.org/ggvr6r
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.15252/MSB.20199110
+  title: 'SBML Level 3: an extensible format for the exchange and reuse of biological
+    models'
+  authors:
+  - Sarah M Keating
+  - Dagmar Waltemath
+  - "Matthias K\xF6nig"
+  - Fengkai Zhang
+  - "Andreas Dr\xE4ger"
+  - Claudine Chaouiya
+  - Frank T Bergmann
+  - Andrew Finney
+  - Colin S Gillespie
+  - "Tom\xE1\u0161 Helikar"
+  - Stefan Hoops
+  - "Rahuman S Malik\u2010Sheriff"
+  - Stuart L Moodie
+  - Ion I Moraru
+  - Chris J Myers
+  - "Aur\xE9lien Naldi"
+  - Brett G Olivier
+  - Sven Sahle
+  - James C Schaff
+  - Lucian P Smith
+  - Maciej J Swat
+  - Denis Thieffry
+  - Leandro Watanabe
+  - Darren J Wilkinson
+  - Michael L Blinov
+  - Kimberly Begley
+  - James R Faeder
+  - "Harold F G\xF3mez"
+  - Thomas M Hamm
+  - Yuichiro Inagaki
+  - Wolfram Liebermeister
+  - Allyson L Lister
+  - Daniel Lucio
+  - Eric Mjolsness
+  - Carole J Proctor
+  - Karthik Raman
+  - Nicolas Rodriguez
+  - Clifford A Shaffer
+  - Bruce E Shapiro
+  - Joerg Stelling
+  - Neil Swainston
+  - Naoki Tanimura
+  - John Wagner
+  - "Martin Meier\u2010Schellersheim"
+  - Herbert M Sauro
+  - Bernhard Palsson
+  - Hamid Bolouri
+  - Hiroaki Kitano
+  - Akira Funahashi
+  - Henning Hermjakob
+  - John C Doyle
+  - Michael Hucka
+  - Richard R Adams
+  - Nicholas A Allen
+  - Bastian R Angermann
+  - Marco Antoniotti
+  - Gary D Bader
+  - "Jan \u010Cerven\xFD"
+  - "M\xE9lanie Courtot"
+  - Chris D Cox
+  - Piero Dalle Pezze
+  - Emek Demir
+  - William S Denney
+  - Harish Dharuri
+  - Julien Dorier
+  - Dirk Drasdo
+  - Ali Ebrahim
+  - Johannes Eichner
+  - Johan Elf
+  - Lukas Endler
+  - Chris T Evelo
+  - Christoph Flamm
+  - Ronan MT Fleming
+  - "Martina Fr\xF6hlich"
+  - Mihai Glont
+  - "Emanuel Gon\xE7alves"
+  - Martin Golebiewski
+  - Hovakim Grabski
+  - Alex Gutteridge
+  - Damon Hachmeister
+  - Leonard A Harris
+  - Benjamin D Heavner
+  - Ron Henkel
+  - William S Hlavacek
+  - Bin Hu
+  - Daniel R Hyduke
+  - Hidde de Jong
+  - Nick Juty
+  - Peter D Karp
+  - Jonathan R Karr
+  - Douglas B Kell
+  - Roland Keller
+  - Ilya Kiselev
+  - Steffen Klamt
+  - Edda Klipp
+  - "Christian Kn\xFCpfer"
+  - Fedor Kolpakov
+  - Falko Krause
+  - Martina Kutmon
+  - Camille Laibe
+  - Conor Lawless
+  - Lu Li
+  - Leslie M Loew
+  - Rainer Machne
+  - Yukiko Matsuoka
+  - Pedro Mendes
+  - Huaiyu Mi
+  - Florian Mittag
+  - Pedro T Monteiro
+  - Kedar Nath Natarajan
+  - Poul MF Nielsen
+  - Tramy Nguyen
+  - Alida Palmisano
+  - "Jean\u2010Baptiste Pettit"
+  - Thomas Pfau
+  - Robert D Phair
+  - Tomas Radivoyevitch
+  - Johann M Rohwer
+  - Oliver A Ruebenacker
+  - "Julio Saez\u2010Rodriguez"
+  - Martin Scharm
+  - Henning Schmidt
+  - Falk Schreiber
+  - Michael Schubert
+  - Roman Schulte
+  - Stuart C Sealfon
+  - Kieran Smallbone
+  - Sylvain Soliman
+  - Melanie I Stefan
+  - Devin P Sullivan
+  - Koichi Takahashi
+  - Bas Teusink
+  - David Tolnay
+  - Ibrahim Vazirabad
+  - Axel von Kamp
+  - Ulrike Wittig
+  - Clemens Wrzodek
+  - Finja Wrzodek
+  - Ioannis Xenarios
+  - Anna Zhukova
+  - Jeremy Zucker
+  publisher: Molecular Systems Biology
+  date: '2020-08-01'
+  link: https://doi.org/gncdt5
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1515/JIB-2020-0015
+  title: 'Systems biology markup language (SBML) level 3 package: multistate, multicomponent
+    and multicompartment species, version 1, release 2'
+  authors:
+  - Fengkai Zhang
+  - Lucian P. Smith
+  - Michael L. Blinov
+  - James Faeder
+  - William S. Hlavacek
+  - Jose Juan Tapia
+  - Sarah M. Keating
+  - Nicolas Rodriguez
+  - "Andreas Dr\xE4ger"
+  - Leonard A. Harris
+  - Andrew Finney
+  - Bin Hu
+  - Michael Hucka
+  - Martin Meier-Schellersheim
+  publisher: Journal of Integrative Bioinformatics
+  date: '2020-06-01'
+  link: https://doi.org/ghffmt
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.07.02.185595
+  title: 'The Roles of Space and Stochasticity in Computational Simulations of Cellular
+    Biochemistry: Quantitative Analysis and Qualitative Insights'
+  authors:
+  - M. E. Johnson
+  - A. Chen
+  - J. R. Faeder
+  - P. Henning
+  - I. I. Moraru
+  - M. Meier-Schellersheim
+  - R. F. Murphy
+  - "T. Pr\xFCstel"
+  - J. A. Theriot
+  - A. M. Uhrmacher
+  publisher: openRxiv
+  date: '2020-07-04'
+  link: https://doi.org/hcshhz
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-1-4939-9102-0_9
+  title: 'MCell-R: A Particle-Resolution Network-Free Spatial Modeling Framework'
+  authors:
+  - Jose-Juan Tapia
+  - Ali Sinan Saglam
+  - Jacob Czech
+  - Robert Kuczewski
+  - Thomas M. Bartol
+  - Terrence J. Sejnowski
+  - James R. Faeder
+  publisher: Methods in Molecular Biology
+  date: '2019-01-01'
+  link: https://doi.org/hcshh2
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/164_2019_239
+  title: Harnessing Human Microphysiology Systems as Key Experimental Models for Quantitative
+    Systems Pharmacology
+  authors:
+  - D. Lansing Taylor
+  - Albert Gough
+  - Mark E. Schurdak
+  - Lawrence Vernetti
+  - Chakra S. Chennubhotla
+  - Daniel Lefever
+  - Fen Pei
+  - James R. Faeder
+  - Timothy R. Lezon
+  - Andrew M. Stern
+  - Ivet Bahar
+  publisher: Handbook of Experimental Pharmacology
+  date: '2019-01-01'
+  link: https://doi.org/hcshh3
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-018-27266-8
+  title: Shift from stochastic to spatially-ordered expression of serine-glycine synthesis
+    enzymes in 3D microtumors
+  authors:
+  - Manjulata Singh
+  - Katsuhiko Warita
+  - Tomoko Warita
+  - James R. Faeder
+  - Robin E. C. Lee
+  - Shilpa Sant
+  - "Zolt\xE1n N. Oltvai"
+  publisher: Scientific Reports
+  date: '2018-06-20'
+  link: https://doi.org/gdrsdw
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/PDP2018.2018.00114
+  title: Evaluation of Parallel Tempering to Accelerate Bayesian Parameter Estimation
+    in Systems Biology
+  authors:
+  - Sanjana Gupta
+  - Liam Hainsworth
+  - Justin Hogg
+  - Robin Lee
+  - James Faeder
+  publisher: 2018 26th Euromicro International Conference on Parallel, Distributed
+    and Network-based Processing (PDP)
+  date: '2018-03-01'
+  link: https://doi.org/hcshh4
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1523/ENEURO.0298-17.2017
+  title: Heterogeneities in Axonal Structure and Transporter Distribution Lower Dopamine
+    Reuptake Efficiency
+  authors:
+  - Cihan Kaya
+  - Mary H. Cheng
+  - Ethan R. Block
+  - Tom M. Bartol
+  - Terrence J. Sejnowski
+  - Alexander Sorkin
+  - James R. Faeder
+  - Ivet Bahar
+  publisher: eneuro
+  date: '2018-01-01'
+  link: https://doi.org/hcshh5
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/JOURNAL.PCBI.1005857
+  title: Automated visualization of rule-based models
+  authors:
+  - John Arul Prakash Sekar
+  - Jose-Juan Tapia
+  - James R. Faeder
+  publisher: PLOS Computational Biology
+  date: '2017-11-13'
+  link: https://doi.org/gcjzh8
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.CYTO.2016.11.013
+  title: 'Demystifying the cytokine network: Mathematical models point the way'
+  authors:
+  - Penelope A. Morel
+  - Robin E.C. Lee
+  - James R. Faeder
+  publisher: Cytokine
+  date: '2017-10-01'
+  link: https://doi.org/gb2j4f
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.BPJ.2016.11.751
+  title: Effect of Spatial Complexity on Dopaminergic Signaling Revealed from Multiscale
+    Simulations
+  authors:
+  - Cihan Kaya
+  - Mary H. Cheng
+  - Ethan R. Block
+  - Alexander Sorkin
+  - James R. Faeder
+  - Ivet Bahar
+  publisher: Biophysical Journal
+  date: '2017-02-01'
+  link: https://doi.org/hcshh6
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/BIBM.2016.7822739
+  title: Energy-based modeling in BioNetGen
+  authors:
+  - John A.P. Sekar
+  - Justin S. Hogg
+  - James R. Faeder
+  publisher: 2016 IEEE International Conference on Bioinformatics and Biomedicine
+    (BIBM)
+  date: '2016-12-01'
+  link: https://doi.org/hcshh7
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.CELS.2017.10.011
+  title: "NF-\u03BAB Dynamics Discriminate between TNF Doses in Single Cells"
+  authors:
+  - Qiuhong Zhang
+  - Sanjana Gupta
+  - David L. Schipper
+  - Gabriel J. Kowalczyk
+  - Allison E. Mancini
+  - James R. Faeder
+  - Robin E.C. Lee
+  publisher: Cell Systems
+  date: '2017-12-01'
+  link: https://doi.org/hcshh8
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/BIBM.2016.7822738
+  title: Parameter estimation of rule-based models using statistical model checking
+  authors:
+  - Bing Liu
+  - James R. Faeder
+  publisher: 2016 IEEE International Conference on Bioinformatics and Biomedicine
+    (BIBM)
+  date: '2016-12-01'
+  link: https://doi.org/hcshh9
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/BIOINFORMATICS/BTW469
+  title: 'BioNetGen 2.2: advances in rule-based modeling'
+  authors:
+  - Leonard A. Harris
+  - Justin S. Hogg
+  - "Jos\xE9-Juan Tapia"
+  - John A. P. Sekar
+  - Sanjana Gupta
+  - Ilya Korsunsky
+  - Arshi Arora
+  - Dipak Barua
+  - Robert P. Sheehan
+  - James R. Faeder
+  publisher: Bioinformatics
+  date: '2016-07-08'
+  link: https://doi.org/f9b3z6
+  orcid: 0000-0001-8127-609X
+  plugin: sources.py
+  file: sources.yaml
+  group: highlighted
+  description: BioNetGen 2.2, the lab's widely used software for rule-based modeling
+    of biochemical systems.
+  tags:
+  - software
+- id: doi:10.1007/978-3-319-45177-0_18
+  title: Formal Modeling and Analysis of Pancreatic Cancer Microenvironment
+  authors:
+  - Qinsi Wang
+  - Natasa Miskov-Zivanov
+  - Bing Liu
+  - James R. Faeder
+  - Michael Lotze
+  - Edmund M. Clarke
+  publisher: Lecture Notes in Computer Science
+  date: '2016-01-01'
+  link: https://doi.org/hcshjb
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/HLDVT.2016.7748271
+  title: High-level modeling and verification of cellular signaling
+  authors:
+  - Natasa Miskov-Zivanov
+  - Paolo Zuliani
+  - Qinsi Wang
+  - Edmund M. Clarke
+  - James R. Faeder
+  publisher: 2016 IEEE International High Level Design Validation and Test Workshop
+    (HLDVT)
+  date: '2016-10-01'
+  link: https://doi.org/g5z736
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.BPJ.2015.11.3385
+  title: Multi-Scale Spatial Simulations Reveal the Effect of Dopamine Transporter
+    Localization on Dopamine Neurotransmission
+  authors:
+  - Cihan Kaya
+  - Ethan R. Block
+  - Alexander Sorkin
+  - James R. Faeder
+  - Ivet Bahar
+  publisher: Biophysical Journal
+  date: '2016-02-01'
+  link: https://doi.org/hcshjc
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.BPJ.2016.03.025
+  title: 'Reductionism Is Dead: Long Live Reductionism! Systems Modeling Needs Reductionist
+    Experiments'
+  authors:
+  - "James\_R. Faeder"
+  - "Penelope\_A. Morel"
+  publisher: Biophysical Journal
+  date: '2016-04-01'
+  link: https://doi.org/hcshjd
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/JOURNAL.PCBI.1004611
+  title: Unbiased Rare Event Sampling in Spatial Stochastic Systems Biology Models
+    Using a Weighted Ensemble of Trajectories
+  authors:
+  - Rory M. Donovan
+  - Jose-Juan Tapia
+  - Devin P. Sullivan
+  - James R. Faeder
+  - Robert F. Murphy
+  - Markus Dittrich
+  - Daniel M. Zuckerman
+  publisher: PLOS Computational Biology
+  date: '2016-02-04'
+  link: https://doi.org/f8qx6b
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4049/JIMMUNOL.1402554
+  title: 'Cutting Edge: Differential Regulation of PTEN by TCR, Akt, and FoxO1 Controls
+    CD4+ T Cell Fate Decisions'
+  authors:
+  - William F Hawse
+  - Robert P Sheehan
+  - Natasa Miskov-Zivanov
+  - Ashley V Menk
+  - Lawrence P Kane
+  - James R Faeder
+  - Penelope A Morel
+  publisher: The Journal of Immunology
+  date: '2015-05-01'
+  link: https://doi.org/f7br4j
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/2742060.2743763
+  title: Design Automation for Biological Models
+  authors:
+  - Devin P. Sullivan
+  - Rohan Arepally
+  - Robert F. Murphy
+  - Jose-Juan Tapia
+  - James R. Faeder
+  - Markus Dittrich
+  - Jacob Czech
+  publisher: Proceedings of the 25th edition on Great Lakes Symposium on VLSI
+  date: '2015-05-20'
+  link: https://doi.org/f3rnrp
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-1-4614-6675-8_256
+  title: MCell
+  authors:
+  - Thomas M. Bartol
+  - Markus Dittrich
+  - James R. Faeder
+  publisher: Encyclopedia of Computational Neuroscience
+  date: '2015-01-01'
+  link: https://doi.org/hcshjf
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/MBIO.01859-15
+  title: Memory of Germinant Stimuli in Bacterial Spores
+  authors:
+  - Shiwei Wang
+  - James R. Faeder
+  - Peter Setlow
+  - Yong-qing Li
+  publisher: mBio
+  date: '2015-12-31'
+  link: https://doi.org/f78pkh
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1478-3975/12/4/045007
+  title: 'Modeling for (physical) biologists: an introduction to the rule-based approach'
+  authors:
+  - Lily A Chylek
+  - Leonard A Harris
+  - James R Faeder
+  - William S Hlavacek
+  publisher: Physical Biology
+  date: '2015-07-01'
+  link: https://doi.org/ggk87v
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1478-3975/12/6/060401
+  title: 'The eighth q-bio conference: meeting report and special issue preface'
+  authors:
+  - William S Hlavacek
+  - S Gnanakaran
+  - Brian Munsky
+  - Michael E Wall
+  - James R Faeder
+  - Yi Jiang
+  - Ilya Nemenman
+  - Orna Resnekov
+  publisher: Physical Biology
+  date: '2015-12-01'
+  link: https://doi.org/hcshjg
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.BPJ.2014.11.852
+  title: Unified Model of Synaptic Transmission
+  authors:
+  - Cihan Kaya
+  - Bing Liu
+  - James R. Faeder
+  - Ivet Bahar
+  publisher: Biophysical Journal
+  date: '2015-01-01'
+  link: https://doi.org/hcshjh
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/JOURNAL.PCBI.1003544
+  title: Exact Hybrid Particle/Population Simulation of Rule-Based Models of Biochemical
+    Systems
+  authors:
+  - Justin S. Hogg
+  - Leonard A. Harris
+  - Lori J. Stover
+  - Niketh S. Nair
+  - James R. Faeder
+  publisher: PLoS Computational Biology
+  date: '2014-04-03'
+  link: https://doi.org/f54dmh
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/B978-1-4557-4066-6.00025-1
+  title: High-Content Analysis with Cellular and Tissue Systems Biology
+  authors:
+  - Albert Gough
+  - Timothy Lezon
+  - James R. Faeder
+  - Chakra Chennubhotla
+  - Robert F. Murphy
+  - Rebecca Critchley-Thorne
+  - D. Lansing Taylor
+  publisher: The Molecular Basis of Cancer
+  date: '2015-01-01'
+  link: https://doi.org/hcshjj
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1471-2105-15-316
+  title: 'MOSBIE: a tool for comparison and analysis of rule-based biochemical models'
+  authors:
+  - John E Wenskovitch
+  - Leonard A Harris
+  - Jose-Juan Tapia
+  - James R Faeder
+  - G Elisabeta Marai
+  publisher: BMC Bioinformatics
+  date: '2014-09-25'
+  link: https://doi.org/gb8ws8
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S10928-014-9376-Y
+  title: 'Modeling the T cell immune response: a fascinating challenge'
+  authors:
+  - Penelope A. Morel
+  - James R. Faeder
+  - William F. Hawse
+  - Natasa Miskov-Zivanov
+  publisher: Journal of Pharmacokinetics and Pharmacodynamics
+  date: '2014-08-26'
+  link: https://doi.org/f6n5xs
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/WSBM.1245
+  title: "Rule\u2010based modeling: a computational approach for studying biomolecular\
+    \ site dynamics in cell signaling systems"
+  authors:
+  - Lily A. Chylek
+  - Leonard A. Harris
+  - "Chang\u2010Shung Tung"
+  - James R. Faeder
+  - Carlos F. Lopez
+  - William S. Hlavacek
+  publisher: WIREs Systems Biology and Medicine
+  date: '2013-09-30'
+  link: https://doi.org/ghww8v
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1478-3975/11/4/040301
+  title: 'The Seventh q-bio Conference: meeting report and preface'
+  authors:
+  - Ilya Nemenman
+  - James R Faeder
+  - S Gnanakaran
+  - William S Hlavacek
+  - Brian Munsky
+  - Michael E Wall
+  - Yi Jiang
+  publisher: Physical Biology
+  date: '2014-07-30'
+  link: https://doi.org/hcshjk
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.JTBI.2013.05.028
+  title: In vivo, in vitro, and in silico studies suggest a conserved immune module
+    that regulates malaria parasite transmission from mammals to mosquitoes
+  authors:
+  - Ian Price
+  - Bard Ermentrout
+  - Ruben Zamora
+  - Bo Wang
+  - Nabil Azhar
+  - Qi Mi
+  - Gregory Constantine
+  - James R. Faeder
+  - Shirley Luckhart
+  - Yoram Vodovotz
+  publisher: Journal of Theoretical Biology
+  date: '2013-10-01'
+  link: https://doi.org/f48s3f
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.CYTO.2013.06.239
+  title: '236'
+  authors:
+  - Robert P. Sheehan
+  - Abhishek Garg
+  - Sarah L. Gaffen
+  - James R. Faeder
+  publisher: Cytokine
+  date: '2013-09-01'
+  link: https://doi.org/hcshjm
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/2463209.2488743
+  title: Dynamic behavior of cell signaling networks
+  authors:
+  - Natasa Miskov-Zivanov
+  - Diana Marculescu
+  - James R. Faeder
+  publisher: Proceedings of the 50th Annual Design Automation Conference
+  date: '2013-05-29'
+  link: https://doi.org/g5xbhc
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.4821167
+  title: Efficient stochastic simulation of chemical kinetics networks using a weighted
+    ensemble of trajectories
+  authors:
+  - Rory M. Donovan
+  - Andrew J. Sedgewick
+  - James R. Faeder
+  - Daniel M. Zuckerman
+  publisher: The Journal of Chemical Physics
+  date: '2013-09-20'
+  link: https://doi.org/ggm2tm
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-1-4614-8008-2_14
+  title: "Modeling Host\u2013Vector\u2013Pathogen Immuno-inflammatory Interactions\
+    \ in Malaria"
+  authors:
+  - Yoram Vodovotz
+  - Nabil Azhar
+  - Natasa Miskov-Zivanov
+  - Marius Buliga
+  - Ruben Zamora
+  - Bard Ermentrout
+  - Gregory M. Constantine
+  - James R. Faeder
+  - Nazzy Pakpour
+  - Shirley Luckhart
+  publisher: Complex Systems and Computational Biology Approaches to Acute Inflammation
+  date: '2013-01-01'
+  link: https://doi.org/hcshjn
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/scisignal.2004814
+  title: "<i>Science Signaling</i>\n            Podcast: 5 November 2013"
+  authors:
+  - Penelope A. Morel
+  - James R. Faeder
+  - Annalisa M. VanHook
+  publisher: Science Signaling
+  date: '2013-11-05'
+  link: https://doi.org/hcshjp
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1478-3975/10/3/030301
+  title: 'Special section dedicated to The Sixth q-bio Conference: meeting report
+    and preface'
+  authors:
+  - Ilya Nemenman
+  - S Gnanakaran
+  - Brian Munsky
+  - Michael E Wall
+  - Yi Jiang
+  - William S Hlavacek
+  - James R Faeder
+  publisher: Physical Biology
+  date: '2013-06-04'
+  link: https://doi.org/hcshjq
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/2506583.2512390
+  title: Studies of biological networks with statistical model checking
+  authors:
+  - Natasa Miskov-Zivanov
+  - Paolo Zuliani
+  - Edmund M. Clarke
+  - James R. Faeder
+  publisher: Proceedings of the International Conference on Bioinformatics, Computational
+    Biology and Biomedical Informatics
+  date: '2013-09-22'
+  link: https://doi.org/hcshjr
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/SCISIGNAL.2004217
+  title: The Duration of T Cell Stimulation Is a Critical Determinant of Cell Fate
+    and Plasticity
+  authors:
+  - Natasa Miskov-Zivanov
+  - Michael S. Turner
+  - Lawrence P. Kane
+  - Penelope A. Morel
+  - James R. Faeder
+  publisher: Science Signaling
+  date: '2013-11-05'
+  link: https://doi.org/hcshjs
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/2506583.2512389
+  title: The Atomizer
+  authors:
+  - Jose-Juan Tapia
+  - James R. Faeder
+  publisher: Proceedings of the International Conference on Bioinformatics, Computational
+    Biology and Biomedical Informatics
+  date: '2013-09-22'
+  link: https://doi.org/hcshjt
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/CDC.2012.6425828
+  title: Adaptive coarse-graining for transient and quasi-equilibrium analyses of
+    stochastic gene regulation
+  authors:
+  - Jose Juan Tapia
+  - James R. Faeder
+  - Brian Munsky
+  publisher: 2012 IEEE 51st IEEE Conference on Decision and Control (CDC)
+  date: '2012-12-01'
+  link: https://doi.org/hcshjv
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-28067-2_7
+  title: Computational Modeling and Verification of Signaling Pathways in Cancer
+  authors:
+  - Haijun Gong
+  - Paolo Zuliani
+  - Anvesh Komuravelli
+  - James R. Faeder
+  - Edmund M. Clarke
+  publisher: Lecture Notes in Computer Science
+  date: '2012-01-01'
+  link: https://doi.org/fzbnkd
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Modeling and design automation of biological circuits and systems
+  publisher: IEEE/ACM International Conference on Computer-Aided Design, Digest of
+    Technical Papers, ICCAD
+  date: '2022-05-25'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84872298430&partnerID=MN8TOARS
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-1-61779-833-7_9
+  title: 'Rule-Based Modeling of Signal Transduction: A Primer'
+  authors:
+  - John A. P. Sekar
+  - James R. Faeder
+  publisher: Methods in Molecular Biology
+  date: '2012-01-01'
+  link: https://doi.org/hcshjw
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1471-2105-13-S8-S3
+  title: 'RuleBender: integrated modeling, simulation and visualization for rule-based
+    intracellular biochemistry'
+  authors:
+  - Adam M Smith
+  - Wen Xu
+  - Yao Sun
+  - James R Faeder
+  - G Elisabeta Marai
+  publisher: BMC Bioinformatics
+  date: '2012-05-18'
+  link: https://doi.org/gb8vkk
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1478-3975/9/5/050201
+  title: The Fifth Annual q-bio Conference on Cellular Information Processing
+  authors:
+  - Ilya Nemenman
+  - S Gnanakaran
+  - William S Hlavacek
+  - Yi Jiang
+  - Brian Munsky
+  - Michael E Wall
+  - James R Faeder
+  publisher: Physical Biology
+  date: '2012-09-25'
+  link: https://doi.org/hcshjx
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.JTBI.2011.11.014
+  title: The interplay of double phosphorylation and scaffolding in MAPK pathways
+  authors:
+  - "Pawe\u0141 Kocieniewski"
+  - James R. Faeder
+  - Tomasz Lipniacki
+  publisher: Journal of Theoretical Biology
+  date: '2012-02-01'
+  link: https://doi.org/db9mkn
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/NMETH.1546
+  title: Efficient modeling, simulation and coarse-graining of biological complexity
+    with NFsim
+  authors:
+  - Michael W Sneddon
+  - James R Faeder
+  - Thierry Emonet
+  publisher: Nature Methods
+  date: '2010-12-26'
+  link: https://doi.org/fgknpr
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/2147805.2147893
+  title: Emulation of biological networks in reconfigurable hardware
+  authors:
+  - Natasa Miskov-Zivanov
+  - Andrew Bresticker
+  - Deepa Krishnaswamy
+  - Sreesan Venkatakrishnan
+  - Diana Marculescu
+  - James R. Faeder
+  publisher: Proceedings of the 2nd ACM Conference on Bioinformatics, Computational
+    Biology and Biomedicine
+  date: '2011-08-01'
+  link: https://doi.org/hcshjz
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/C1MB05077J
+  title: Guidelines for visualizing and annotating rule-based models
+  authors:
+  - Lily A Chylek
+  - Bin Hu
+  - Michael L Blinov
+  - Thierry Emonet
+  - James R Faeder
+  - Byron Goldstein
+  - Ryan N Gutenkunst
+  - Jason M Haugh
+  - Tomasz Lipniacki
+  - Richard G Posner
+  - Jin Yang
+  - William S Hlavacek
+  publisher: Molecular BioSystems
+  date: '2011-06-07'
+  link: https://doi.org/d7vcnb
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IEMBS.2011.6089916
+  title: Regulatory network analysis acceleration with reconfigurable hardware
+  authors:
+  - Natasa Miskov-Zivanov
+  - Andrew Bresticker
+  - Deepa Krishnaswamy
+  - Sreesan Venkatakrishnan
+  - Prashant Kashinkunti
+  - Diana Marculescu
+  - James R. Faeder
+  publisher: 2011 Annual International Conference of the IEEE Engineering in Medicine
+    and Biology Society
+  date: '2011-08-01'
+  link: https://doi.org/fdrmkb
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/BioVis.2011.6094054
+  title: 'RuleBender: Integrated visualization for biochemical rule-based modeling'
+  authors:
+  - Adam M. Smith
+  - Wen Xu
+  - Yao Sun
+  - James R. Faeder
+  - G. Elisabeta Marai
+  publisher: 2011 IEEE Symposium on Biological Data Visualization (BioVis).
+  date: '2011-10-01'
+  link: https://doi.org/cvrq96
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/BIOINFORMATICS/BTR197
+  title: 'RuleBender: a visual interface for rule-based modeling'
+  authors:
+  - Wen Xu
+  - Adam M. Smith
+  - James R. Faeder
+  - G. Elisabeta Marai
+  publisher: Bioinformatics
+  date: '2011-04-14'
+  link: https://doi.org/cm93rh
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1478-3975/8/5/050301
+  title: Selected papers from the Fourth Annual q-bio Conference on Cellular Information
+    Processing
+  authors:
+  - Ilya Nemenman
+  - James R Faeder
+  - William S Hlavacek
+  - Yi Jiang
+  - Michael E Wall
+  - Anton Zilman
+  publisher: Physical Biology
+  date: '2011-08-10'
+  link: https://doi.org/fh3f76
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Symbolic model checking of signaling pathways in pancreatic cancer
+  publisher: 3rd International Conference on Bioinformatics and Computational Biology
+    2011, BICoB 2011
+  date: '2022-05-25'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84883563766&partnerID=MN8TOARS
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/JB.05343-11
+  title: Synergism between Different Germinant Receptors in the Germination of Bacillus
+    subtilis Spores
+  authors:
+  - Xuan Yi
+  - Jintao Liu
+  - James R. Faeder
+  - Peter Setlow
+  publisher: Journal of Bacteriology
+  date: '2011-09-15'
+  link: https://doi.org/b8vb47
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/JB.06146-11
+  title: Synergism between Different Germinant Receptors in the Germination of Bacillus
+    subtilis Spores
+  authors:
+  - Xuan Yi
+  - Jintao Liu
+  - James R. Faeder
+  - Peter Setlow
+  publisher: Journal of Bacteriology
+  date: '2011-11-01'
+  link: https://doi.org/cnh9ck
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1471-2164-12-574
+  title: 'The mitogen-activated protein kinome from Anopheles gambiae: identification,
+    phylogeny and functional characterization of the ERK, JNK and p38 MAP kinases'
+  authors:
+  - Ashley A Horton
+  - Bo Wang
+  - Lauren Camp
+  - Mark S Price
+  - Arora Arshi
+  - Mate Nagy
+  - Steven A Nadler
+  - James R Faeder
+  - Shirley Luckhart
+  publisher: BMC Genomics
+  date: '2011-11-23'
+  link: https://doi.org/cd5r3f
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1741-7007-9-68
+  title: Toward a comprehensive language for biological systems
+  authors:
+  - James R Faeder
+  publisher: BMC Biology
+  date: '2011-10-17'
+  link: https://doi.org/bfrm5k
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1471-2105-11-S7-S10
+  title: Analysis and verification of the HMGB1 signaling pathway
+  authors:
+  - Haijun Gong
+  - Paolo Zuliani
+  - Anvesh Komuravelli
+  - James R Faeder
+  - Edmund M Clarke
+  publisher: BMC Bioinformatics
+  date: '2010-10-01'
+  link: https://doi.org/djj354
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.BPJ.2009.09.043
+  title: Modeling Multivalent Ligand-Receptor Interactions with Steric Constraints
+    on Configurations of Cell-Surface Receptor Aggregates
+  authors:
+  - Michael I. Monine
+  - Richard G. Posner
+  - Paul B. Savage
+  - James R. Faeder
+  - William S. Hlavacek
+  publisher: Biophysical Journal
+  date: '2010-01-01'
+  link: https://doi.org/cxc23d
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1049/IET-SYB.2010.0006
+  title: "Shaping the response: the role of Fc\u220ARI and Syk expression levels in\
+    \ mast cell signalling"
+  authors:
+  - A. Nag
+  - J.R. Faeder
+  - B. Goldstein
+  publisher: IET Systems Biology
+  date: '2010-11-11'
+  link: https://doi.org/c99qqg
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/JP905811T
+  title: "Simulations of ICl<sup>\u2212</sup>(CO<sub>2</sub>)<sub><i>n</i></sub>Photodissociation:\
+    \ Effects of Structure, Excited State Charge Flow, and Solvent Dynamics"
+  authors:
+  - James R. Faeder
+  - Robert Parson
+  publisher: The Journal of Physical Chemistry A
+  date: '2009-09-18'
+  link: https://doi.org/djqxqm
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3109/08923970903369867
+  title: Translational Systems Approaches to the Biology of Inflammation and Healing
+  authors:
+  - Yoram Vodovotz
+  - Gregory Constantine
+  - James Faeder
+  - Qi Mi
+  - Jonathan Rubin
+  - John Bartels
+  - Joydeep Sarkar
+  - Robert H. Squires
+  - David O. Okonkwo
+  - "J\xF6rg Gerlach"
+  - Ruben Zamora
+  - Shirley Luckhart
+  - Bard Ermentrout
+  - Gary An
+  publisher: Immunopharmacology and Immunotoxicology
+  date: '2010-02-22'
+  link: https://doi.org/d32266
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/JOURNAL.PCBI.1000364
+  title: A Bipolar Clamp Mechanism for Activation of Jak-Family Protein Tyrosine Kinases
+  authors:
+  - Dipak Barua
+  - James R. Faeder
+  - Jason M. Haugh
+  publisher: PLoS Computational Biology
+  date: '2009-04-17'
+  link: https://doi.org/bm8m4h
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.BPJ.2009.01.019
+  title: 'Aggregation of Membrane Proteins by Cytosolic Cross-Linkers: Theory and
+    Simulation of the LAT-Grb2-SOS1 System'
+  authors:
+  - Ambarish Nag
+  - Michael I. Monine
+  - James R. Faeder
+  - Byron Goldstein
+  publisher: Biophysical Journal
+  date: '2009-04-01'
+  link: https://doi.org/fvvds7
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/WSC.2009.5429719
+  title: Compartmental rule-based modeling of biochemical systems
+  authors:
+  - Leonard A Harris
+  - Justin S. Hogg
+  - James R. Faeder
+  publisher: Proceedings of the 2009 Winter Simulation Conference (WSC)
+  date: '2009-12-01'
+  link: https://doi.org/bkm9sk
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.MBS.2008.08.013
+  title: Detailed qualitative dynamic knowledge representation using a BioNetGen model
+    of TLR-4 signaling and preconditioning
+  authors:
+  - Gary C. An
+  - James R. Faeder
+  publisher: Mathematical Biosciences
+  date: '2009-01-01'
+  link: https://doi.org/c65gbs
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/BIOINFORMATICS/BTP173
+  title: GetBonNie for building, analyzing and sharing rule-based models
+  authors:
+  - Bin Hu
+  - G. Matthew Fricke
+  - James R. Faeder
+  - Richard G. Posner
+  - William S. Hlavacek
+  publisher: Bioinformatics
+  date: '2009-03-25'
+  link: https://doi.org/cj3stg
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-1-59745-525-1_5
+  title: Rule-Based Modeling of Biochemical Systems with BioNetGen
+  authors:
+  - James R. Faeder
+  - Michael L. Blinov
+  - William S. Hlavacek
+  publisher: Methods in Molecular Biology
+  date: '2009-01-01'
+  link: https://doi.org/c68sk4
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/BIOINFORMATICS/BTP066
+  title: Simulation of large-scale rule-based models
+  authors:
+  - Joshua Colvin
+  - Michael I. Monine
+  - James R. Faeder
+  - William S. Hlavacek
+  - Daniel D. Von Hoff
+  - Richard G. Posner
+  publisher: Bioinformatics
+  date: '2009-02-11'
+  link: https://doi.org/cjrw4f
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/SCISIGNAL.281PE46
+  title: The Complexity of Cell Signaling and the Need for a New Mechanics
+  authors:
+  - William S. Hlavacek
+  - James R. Faeder
+  publisher: Science Signaling
+  date: '2009-07-28'
+  link: https://doi.org/d6mfts
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/PNAS.0907710106
+  title: Toward a quantitative theory of intrinsically disordered proteins and their
+    function
+  authors:
+  - Jintao Liu
+  - James R. Faeder
+  - Carlos J. Camacho
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2009-11-24'
+  link: https://doi.org/c3jzqc
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/J.1750-3841.2009.01245.X
+  title: 'Workshop Report: Modeling the Molecular Mechanism of Bacterial Spore Germination
+    and Elucidating Reasons for Germination Heterogeneity'
+  authors:
+  - Karl J. Indest
+  - Wallace G. Buchholz
+  - Jim R. Faeder
+  - Peter Setlow
+  publisher: Journal of Food Science
+  date: '2009-07-31'
+  link: https://doi.org/c2n8m2
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/JBC.M708359200
+  title: Computational Models of Tandem Src Homology 2 Domain Interactions and Application
+    to Phosphoinositide 3-Kinase
+  authors:
+  - Dipak Barua
+  - James R. Faeder
+  - Jason M. Haugh
+  publisher: Journal of Biological Chemistry
+  date: '2008-03-01'
+  link: https://doi.org/cq6v96
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1049/IET-SYB:20070081
+  title: Domain-oriented reduction of rule-based network models
+  authors:
+  - N.M. Borisov
+  - A.S. Chistopolsky
+  - J.R. Faeder
+  - B.N. Kholodenko
+  publisher: IET Systems Biology
+  date: '2008-09-15'
+  link: https://doi.org/dp6chj
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PHYSREVE.78.031910
+  title: Kinetic Monte Carlo method for rule-based modeling of biochemical networks
+  authors:
+  - Jin Yang
+  - Michael I. Monine
+  - James R. Faeder
+  - William S. Hlavacek
+  publisher: Physical Review E
+  date: '2008-09-10'
+  link: https://doi.org/c8thcs
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1049/IET-SYB:20089018
+  title: Selected papers from the First q-bio Conference on Cellular Information Processing
+  authors:
+  - I. Nemenman
+  - W.S. Hlavacek
+  - J.S. Edwards
+  - J.R. Faeder
+  - Y. Jiang
+  - M.E. Wall
+  publisher: IET Systems Biology
+  date: '2008-09-15'
+  link: https://doi.org/d4795f
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-540-88562-7_18
+  title: 'Statistical Model Checking in BioLab: Applications to the Automated Analysis
+    of T-Cell Receptor Signaling Pathway'
+  authors:
+  - Edmund M. Clarke
+  - James R. Faeder
+  - Christopher J. Langmead
+  - Leonard A. Harris
+  - Sumit Kumar Jha
+  - Axel Legay
+  publisher: Lecture Notes in Computer Science
+  date: '2008-01-01'
+  link: https://doi.org/c9f2k7
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.JTBI.2008.05.001
+  title: Stochastic effects and bistability in T cell receptor signaling
+  authors:
+  - Tomasz Lipniacki
+  - Beata Hat
+  - James R. Faeder
+  - William S. Hlavacek
+  publisher: Journal of Theoretical Biology
+  date: '2008-09-01'
+  link: https://doi.org/fq33jv
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/BCR.0B013E31816677C8
+  title: 'Translational Systems Biology: Introduction of an Engineering Approach to
+    the Pathophysiology of the Burn Patient'
+  authors:
+  - Gary An
+  - James Faeder
+  - Yoram Vodovotz
+  publisher: Journal of Burn Care &amp; Research
+  date: '2008-03-01'
+  link: https://doi.org/bdcjtq
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/BIOINFORMATICS/BTM498
+  title: Carbon-fate maps for metabolic reactions
+  authors:
+  - Fangping Mu
+  - Robert F. Williams
+  - Clifford J. Unkefer
+  - Pat J. Unkefer
+  - James R. Faeder
+  - William S. Hlavacek
+  publisher: Bioinformatics
+  date: '2007-10-12'
+  link: https://doi.org/d65t5z
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4049/JIMMUNOL.178.6.3530
+  title: "Kinetic Proofreading of Ligand-Fc\u03B5RI Interactions May Persist beyond\
+    \ LAT Phosphorylation"
+  authors:
+  - Chikako Torigoe
+  - James R Faeder
+  - Janet M Oliver
+  - Byron Goldstein
+  publisher: The Journal of Immunology
+  date: '2007-03-01'
+  link: https://doi.org/f3vq9k
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1529/BIOPHYSJ.106.093484
+  title: 'Structure-Based Kinetic Models of Modular Signaling Protein Function: Focus
+    on Shp2'
+  authors:
+  - Dipak Barua
+  - James R. Faeder
+  - Jason M. Haugh
+  publisher: Biophysical Journal
+  date: '2007-04-01'
+  link: https://doi.org/cfd52b
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/MSB4100193
+  title: "q\u2010bio 2007: a watershed moment in modern biology"
+  authors:
+  - Jeremy S Edwards
+  - James R Faeder
+  - William S Hlavacek
+  - Yi Jiang
+  - Ilya Nemenman
+  - Michael E Wall
+  publisher: Molecular Systems Biology
+  date: '2007-12-04'
+  link: https://doi.org/bk22xg
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.BIOSYSTEMS.2005.06.014
+  title: A network model of early events in epidermal growth factor receptor signaling
+    that accounts for combinatorial complexity
+  authors:
+  - Michael L. Blinov
+  - James R. Faeder
+  - Byron Goldstein
+  - William S. Hlavacek
+  publisher: Biosystems
+  date: '2006-02-01'
+  link: https://doi.org/cnn3xj
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/NBT0206-137
+  title: Depicting signaling cascades
+  authors:
+  - Michael L. Blinov
+  - Jin Yang
+  - James R. Faeder
+  - William S. Hlavacek
+  publisher: Nature Biotechnology
+  date: '2006-02-01'
+  link: https://doi.org/dq42cf
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Graph theory for rule-based modeling of biochemical networks
+  publisher: Lecture Notes in Computer Science (including subseries Lecture Notes
+    in Artificial Intelligence and Lecture Notes in Bioinformatics)
+  date: '2022-05-25'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-36549008035&partnerID=MN8TOARS
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/stke.3442006re6
+  title: Rules for Modeling Signal-Transduction Systems
+  authors:
+  - William S. Hlavacek
+  - James R. Faeder
+  - Michael L. Blinov
+  - Richard G. Posner
+  - Michael Hucka
+  - Walter Fontana
+  publisher: Science's STKE
+  date: '2006-07-18'
+  link: https://doi.org/cm4cx6
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/NBT1105-1344
+  title: '''On-the-fly'' or ''generate-first'' modeling?'
+  authors:
+  - Michael L. Blinov
+  - James R. Faeder
+  - Jin Yang
+  - Byron Goldstein
+  - William S. Hlavacek
+  publisher: Nature Biotechnology
+  date: '2005-11-01'
+  link: https://doi.org/ck3jvj
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1049/SB:20045031
+  title: Combinatorial complexity and dynamical restriction of network flows in signal
+    transduction
+  authors:
+  - J.R. Faeder
+  - W.S. Hlavacek
+  - B. Goldstein
+  - M.L. Blinov
+  publisher: Systems Biology
+  date: '2005-03-01'
+  link: https://doi.org/d3gvvk
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/1066677.1066712
+  title: Graphical rule-based representation of signal-transduction networks
+  authors:
+  - James R. Faeder
+  - Michael L. Blinov
+  - William S. Hlavacek
+  publisher: Proceedings of the 2005 ACM symposium on Applied computing
+  date: '2005-03-13'
+  link: https://doi.org/bpzsqd
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/CPLX.20074
+  title: "Rule\u2010based modeling of biochemical networks"
+  authors:
+  - James R. Faeder
+  - Michael L. Blinov
+  - Byron Goldstein
+  - William S. Hlavacek
+  publisher: Complexity
+  date: '2005-03-01'
+  link: https://doi.org/b9dkn3
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/JP045202M
+  title: "Solvation Dynamics in Reverse Micelles:\u2009 The Role of Headgroup\u2212\
+    Solute Interactions"
+  authors:
+  - James Faeder
+  - Branka M. Ladanyi
+  publisher: The Journal of Physical Chemistry B
+  date: '2005-02-17'
+  link: https://doi.org/bpbwc9
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/BIOINFORMATICS/BTH378
+  title: 'BioNetGen: software for rule-based modeling of signal transduction based
+    on the interactions of molecular domains'
+  authors:
+  - Michael L. Blinov
+  - James R. Faeder
+  - Byron Goldstein
+  - William S. Hlavacek
+  publisher: Bioinformatics
+  date: '2004-06-24'
+  link: https://doi.org/c87cp6
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/NRI1374
+  title: Mathematical and computational models of immune-receptor signalling
+  authors:
+  - Byron Goldstein
+  - James R. Faeder
+  - William S. Hlavacek
+  publisher: Nature Reviews Immunology
+  date: '2004-06-01'
+  link: https://doi.org/dmp99g
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4049/JIMMUNOL.170.7.3769
+  title: "Investigation of Early Events in Fc\u03B5RI-Mediated Signaling Using a Detailed\
+    \ Mathematical Model"
+  authors:
+  - James R Faeder
+  - William S Hlavacek
+  - Ilona Reischl
+  - Michael L Blinov
+  - Henry Metzger
+  - Antonio Redondo
+  - Carla Wofsy
+  - Byron Goldstein
+  publisher: The Journal of Immunology
+  date: '2003-04-01'
+  link: https://doi.org/hcshj2
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/LA026755W
+  title: "Molecular Dynamics Simulations of the Interior of Aqueous Reverse Micelles:\u2009\
+    \ A Comparison between Sodium and Potassium Counterions"
+  authors:
+  - James Faeder
+  - Mark V. Albert
+  - Branka M. Ladanyi
+  publisher: Langmuir
+  date: '2003-02-07'
+  link: https://doi.org/bbs4xt
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/BIT.10842
+  title: The complexity of complexes in signal transduction
+  authors:
+  - William S. Hlavacek
+  - James R. Faeder
+  - Michael L. Blinov
+  - Alan S. Perelson
+  - Byron Goldstein
+  publisher: Biotechnology and Bioengineering
+  date: '2003-12-30'
+  link: https://doi.org/bzph3n
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0161-5890(02)00066-4
+  title: "Modeling the early signaling events mediated by Fc\u03B5RI"
+  authors:
+  - Byron Goldstein
+  - James R. Faeder
+  - William S. Hlavacek
+  - Michael L. Blinov
+  - Antonio Redondo
+  - Carla Wofsy
+  publisher: Molecular Immunology
+  date: '2002-09-01'
+  link: https://doi.org/ckz86n
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/JP010632N
+  title: "Solvation Dynamics in Aqueous Reverse Micelles:\u2009 A Computer Simulation\
+    \ Study"
+  authors:
+  - James Faeder
+  - Branka M. Ladanyi
+  publisher: The Journal of Physical Chemistry B
+  date: '2001-10-11'
+  link: https://doi.org/cd9mhs
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.1412253
+  title: "Vibrational polarization beats in femtosecond coherent anti-Stokes Raman\
+    \ spectroscopy: A signature of dissociative pump\u2013dump\u2013pump wave packet\
+    \ dynamics"
+  authors:
+  - J. Faeder
+  - Iddo Pinkas
+  - G. Knopp
+  - Yehiam Prior
+  - D. J. Tannor
+  publisher: The Journal of Chemical Physics
+  date: '2001-11-08'
+  link: https://doi.org/c3vcv7
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/JP0019916
+  title: Charge Flow and Solvent Dynamics in the Photodissociation of Solvated Molecular
+    Ions
+  authors:
+  - R. Parson
+  - J. Faeder
+  - N. Delaney
+  publisher: The Journal of Physical Chemistry A
+  date: '2000-09-30'
+  link: https://doi.org/c4r2gn
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/JP993076U
+  title: Molecular Dynamics Simulations of the Interior of Aqueous Reverse Micelles
+  authors:
+  - J. Faeder
+  - B. M. Ladanyi
+  publisher: The Journal of Physical Chemistry B
+  date: '2000-01-19'
+  link: https://doi.org/dfcz42
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.479324
+  title: "Photodissociation and recombination of solvated I2\u2212: What causes the\
+    \ transient absorption peak?"
+  authors:
+  - N. Delaney
+  - J. Faeder
+  - R. Parson
+  publisher: The Journal of Chemical Physics
+  date: '1999-07-08'
+  link: https://doi.org/cksd9r
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.479345
+  title: "Simulation of UV photodissociation of I2\u2212(CO2)n: Spin-orbit quenching\
+    \ via solvent mediated electron transfer"
+  authors:
+  - N. Delaney
+  - J. Faeder
+  - R. Parson
+  publisher: The Journal of Chemical Physics
+  date: '1999-07-08'
+  link: https://doi.org/brdq4t
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0009-2614(99)00893-3
+  title: "Spin\u2013orbit coupling in I\xB7CO2 and I\xB7OCS van der Waals complexes:\
+    \ beyond the pseudo-diatomic approximation"
+  authors:
+  - Andrei Sanov
+  - James Faeder
+  - Robert Parson
+  - W.Carl Lineberger
+  publisher: Chemical Physics Letters
+  date: '1999-11-01'
+  link: https://doi.org/bt59sv
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/002689798167854
+  title: An effective Hamiltonian for an electronically excited solute in a polarizable
+    molecular solvent
+  authors:
+  - P. E. MASLEN
+  - J. FAEDER
+  - R. PARSON
+  publisher: Molecular Physics
+  date: '1998-07-01'
+  link: https://doi.org/fpd97f
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Modeling structure and dynamics of solvated molecular ions: Photodissociation
+    and recombination in I <inf>2</inf><sup>-</sup> (CO <inf>2</inf> ) <inf>n</inf>'
+  publisher: Chemical Physics
+  date: '2022-05-25'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0032276159&partnerID=MN8TOARS
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0301-0104(98)00309-7
+  title: "Modeling structure and dynamics of solvated molecular ions: Photodissociation\
+    \ and recombination in I2\u2212(CO2)"
+  authors:
+  - J. Faeder
+  - N. Delaney
+  - P.E. Maslen
+  - R. Parson
+  publisher: Chemical Physics
+  date: '1998-12-01'
+  link: https://doi.org/fm9xc5
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/JP982794Y
+  title: "Photodissociation of I<sub>2</sub><sup>-</sup>(OCS)<i><sub>n</sub></i> Cluster\
+    \ Ions:\u2009 Structural Implications"
+  authors:
+  - S. Nandi
+  - A. Sanov
+  - N. Delaney
+  - J. Faeder
+  - R. Parson
+  - W. C. Lineberger
+  publisher: The Journal of Physical Chemistry A
+  date: '1998-10-14'
+  link: https://doi.org/dzvgrk
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.475793
+  title: "Ultrafast reaction dynamics in cluster ions: Simulation of the transient\
+    \ photoelectron spectrum of I2\u2212Arn photodissociation"
+  authors:
+  - J. Faeder
+  - R. Parson
+  publisher: The Journal of Chemical Physics
+  date: '1998-03-08'
+  link: https://doi.org/dzhfsq
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0009-2614(97)00335-7
+  title: "Charge flow and solvent dynamics in the photodissosiation of cluster ions:\
+    \ a nonadiabatic molecular dynamics study of I2\u2212\xB7Ar"
+  authors:
+  - J. Faeder
+  - N. Delaney
+  - P.E. Maslen
+  - R. Parson
+  publisher: Chemical Physics Letters
+  date: '1997-05-01'
+  link: https://doi.org/cdcxtz
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- title: "Charge flow and solvent dynamics in the photodissociation of cluster ions:\
+    \ A nonadiabatic molecular dynamics study of I<sup>-</sup><inf>2</inf>\xB7Ar<inf>n</inf>"
+  publisher: Chemical Physics Letters
+  date: '2022-05-25'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0031574885&partnerID=MN8TOARS
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/JP972435N
+  title: "Photodissociation, Recombination, and Electron Transfer in Cluster Ions:\u2009\
+    \ A Nonadiabatic Molecular Dynamics Study of I<sub>2</sub><sup>-</sup>(CO<sub>2</sub>)<i><sub>n</sub></i>"
+  authors:
+  - N. Delaney
+  - J. Faeder
+  - P. E. Maslen
+  - R. Parson
+  publisher: The Journal of Physical Chemistry A
+  date: '1997-10-01'
+  link: https://doi.org/c46sv7
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/SCIENCE.276.5319.1660
+  title: Ultrafast Reaction Dynamics in Molecular Cluster Ions
+  authors:
+  - Robert Parson
+  - James Faeder
+  publisher: Science
+  date: '1997-06-13'
+  link: https://doi.org/fmnpz7
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0009-2614(96)01162-1
+  title: "Ab initio calculations of the ground and excited states of I2\u2212 and\
+    \ ICl\u2212"
+  authors:
+  - P.E. Maslen
+  - J. Faeder
+  - R. Parson
+  publisher: Chemical Physics Letters
+  date: '1996-12-01'
+  link: https://doi.org/fs7kvw
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Ab initio calculations of the ground and excited states of I<sup>-</sup><inf>2</inf>
+    and IC1<sup>-</sup>
+  publisher: Chemical Physics Letters
+  date: '2022-05-25'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0030573101&partnerID=MN8TOARS
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.467359
+  title: "Solvation of electronically excited I2\u2212"
+  authors:
+  - P. E. Maslen
+  - J. M. Papanikolas
+  - J. Faeder
+  - R. Parson
+  - S. V. ONeil
+  publisher: The Journal of Chemical Physics
+  date: '1994-10-01'
+  link: https://doi.org/czwc2f
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.465696
+  title: "A distributed Gaussian approach to the vibrational dynamics of Ar\u2013\
+    benzene"
+  authors:
+  - J. Faeder
+  publisher: The Journal of Chemical Physics
+  date: '1993-11-15'
+  link: https://doi.org/dgxjzx
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.460906
+  title: "High resolution spectrum of the <i>v</i>=1 \u03A0 state of ArHCN"
+  authors:
+  - A. L. Cooksy
+  - S. Drucker
+  - J. Faeder
+  - C. A. Gottlieb
+  - W. Klemperer
+  publisher: The Journal of Chemical Physics
+  date: '1991-08-15'
+  link: https://doi.org/fvtw3q
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:3120155
+  title: Fluid and electrolyte disorders associated with diabetic ketoacidosis and
+    hyperglycemic hyperosmolar nonketotic coma.
+  authors:
+  - D E Butts
+  publisher: The Nursing clinics of North America
+  date: '1987-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/3120155
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-0-387-09789-3_8
+  title: Kinetic Proofreading Model
+  authors:
+  - Byron Goldstein
+  - Daniel Coombs
+  - James R. Faeder
+  - William S. Hlavacek
+  publisher: Advances in Experimental Medicine and Biology
+  date: ''
+  link: https://doi.org/fpcb8d
+  orcid: 0000-0001-8127-609X
+  plugin: orcid.py
+  file: orcid.yaml
