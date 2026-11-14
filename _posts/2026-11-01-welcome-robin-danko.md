@@ -1,6 +1,5 @@
 ---
 title: Welcome, Robin Danko
-author: james-faeder
 tags: people
 ---
 

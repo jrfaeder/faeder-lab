@@ -5,7 +5,7 @@
 
 We build mathematical models and computational tools to understand how cells sense, process, and respond to information.
 Our work combines **rule-based modeling**, **stochastic simulation**, and **statistical inference** with close experimental collaborations in immunology, virology, and cell signaling.
-We develop and maintain [BioNetGen](https://bionetgen.org), a widely used open-source platform for rule-based modeling.
+We develop and maintain [BioNetGen](https://bionetgen.org), a widely used open-source platform for rule-based modeling, and an open textbook, [*Rule-Based Modeling of Biological Systems*](https://ruleworld.github.io/bionetgen-book/).
 
 {%
   include button.html
@@ -47,7 +47,7 @@ From receptor signaling and cytokine networks to viral replication and gene expr
 %}
 
 {% capture text %}
-BioNetGen, NFsim, PyBioNetGen, BNG Playground, and an open textbook. Our software is free, open source, and used by modeling groups around the world.
+BioNetGen, NFsim, PyBioNetGen, BNG Playground, and an [open textbook](https://ruleworld.github.io/bionetgen-book/) on rule-based modeling. Our software is free, open source, and used by modeling groups around the world.
 
 {%
   include button.html

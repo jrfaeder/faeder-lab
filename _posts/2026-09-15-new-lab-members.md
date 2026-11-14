@@ -1,6 +1,5 @@
 ---
 title: New lab members for Fall 2026
-author: james-faeder
 tags: people
 ---
 

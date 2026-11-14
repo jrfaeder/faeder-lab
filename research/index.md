@@ -17,7 +17,7 @@ We develop the theory, algorithms, and software for building, simulating, and ca
 ## Research areas
 
 ### Rule-based modeling and simulation methods
-We develop [BioNetGen](https://bionetgen.org) and related tools for specifying, simulating, and analyzing rule-based models, including network-free simulation (NFsim), hybrid particle/population methods, and spatial simulation through MCell4.
+We develop [BioNetGen](https://bionetgen.org) (see our open textbook, [*Rule-Based Modeling of Biological Systems*](https://ruleworld.github.io/bionetgen-book/)) and related tools for specifying, simulating, and analyzing rule-based models, including network-free simulation (NFsim), hybrid particle/population methods, and spatial simulation through MCell4.
 Current work focuses on fast, exact stochastic simulation of very large models, such as whole-cell and multicellular systems.
 
 ### Parameter estimation and uncertainty quantification

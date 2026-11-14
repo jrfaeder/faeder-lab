@@ -3,7 +3,7 @@
   group: featured
   image: images/projects/bionetgen.png
   link: https://bionetgen.org
-  description: Specify biochemical systems compactly as rules for molecular interactions, then simulate them with ODE, stochastic, and network-free methods. Developed and maintained by the lab.
+  description: Specify biochemical systems compactly as rules for molecular interactions, then simulate them with ODE, stochastic, and network-free methods. Developed and maintained by the lab. New to BioNetGen? Start with the [open textbook](https://ruleworld.github.io/bionetgen-book/).
   repo: RuleWorld/bionetgen
   tags:
     - software

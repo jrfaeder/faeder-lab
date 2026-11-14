@@ -1,6 +1,5 @@
 ---
 title: Processive Ras activation published in npj Systems Biology and Applications
-author: james-faeder
 tags: publications
 ---
 

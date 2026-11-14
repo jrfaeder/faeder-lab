@@ -32,4 +32,5 @@ University of Pittsburgh School of Medicine
 - [Department of Computational and Systems Biology](https://www.csb.pitt.edu/)
 - [Joint CMU–Pitt PhD Program in Computational Biology](https://www.compbio.cmu.edu/)
 - [BioNetGen](https://bionetgen.org)
+- [Rule-Based Modeling of Biological Systems](https://ruleworld.github.io/bionetgen-book/): open textbook for BioNetGen
 - [RuleWorld on GitHub](https://github.com/RuleWorld)
