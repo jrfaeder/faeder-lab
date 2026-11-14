@@ -353,15 +353,6 @@
   orcid: 0000-0001-8127-609X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/JOURNAL.PCBI.1007669.R004
-  title: ''
-  authors: []
-  publisher: Public Library of Science (PLoS)
-  date: ''
-  link: https://doi.org/hcshhx
-  orcid: 0000-0001-8127-609X
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1101/2020.04.02.019075
   title: Iterative community-driven development of a SARS-CoV-2 tissue simulator
   authors:
@@ -2294,17 +2285,6 @@
   orcid: 0000-0001-8127-609X
   plugin: orcid.py
   file: orcid.yaml
-- id: pmid:3120155
-  title: Fluid and electrolyte disorders associated with diabetic ketoacidosis and
-    hyperglycemic hyperosmolar nonketotic coma.
-  authors:
-  - D E Butts
-  publisher: The Nursing clinics of North America
-  date: '1987-12-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/3120155
-  orcid: 0000-0001-8127-609X
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1007/978-0-387-09789-3_8
   title: Kinetic Proofreading Model
   authors:
@@ -2313,8 +2293,8 @@
   - James R. Faeder
   - William S. Hlavacek
   publisher: Advances in Experimental Medicine and Biology
-  date: ''
+  date: '2008-01-01'
   link: https://doi.org/fpcb8d
   orcid: 0000-0001-8127-609X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml

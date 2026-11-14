@@ -32,3 +32,17 @@
   description: BioNetGen 2.2, the lab's widely used software for rule-based modeling of biochemical systems.
   tags:
     - software
+
+# --- corrections to the ORCID record ---
+
+# misattributed (D. E. Butts, nursing paper); not a Faeder publication
+- id: pmid:3120155
+  remove: true
+
+# PLOS review-history record for the PT-Lasso paper, not a separate publication
+- id: doi:10.1371/JOURNAL.PCBI.1007669.R004
+  remove: true
+
+# ORCID has no date for this chapter (Adv Exp Med Biol 640, 2008)
+- id: doi:10.1007/978-0-387-09789-3_8
+  date: 2008-01-01
