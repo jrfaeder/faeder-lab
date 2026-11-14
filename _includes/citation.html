@@ -65,7 +65,15 @@
         </span>
         &nbsp;·&nbsp;
         <span class="citation-date">
-          {{- citation.date | default: "[no date info]" | date: "%d %b %Y" -}}
+          {%- comment -%}
+            Faeder Lab: cite.py fills a missing month/day with Jan 1, so show only the year for Jan 1 dates
+          {%- endcomment -%}
+          {%- assign md = citation.date | date: "%m-%d" -%}
+          {%- if md == "01-01" -%}
+            {{- citation.date | date: "%Y" -}}
+          {%- else -%}
+            {{- citation.date | default: "[no date info]" | date: "%d %b %Y" -}}
+          {%- endif -%}
         </span>
         &nbsp;·&nbsp;
         <span class="citation-id">
