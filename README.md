@@ -1,3 +1,5 @@
+Visit **[jrfaeder.github.io/faeder-lab](https://jrfaeder.github.io/faeder-lab)** 🚀
+
 # Faeder Lab website
 
 Built with Greene Lab's [Lab Website Template](https://github.com/greenelab/lab-website-template) (v1.4.1; [docs](https://greene-lab.gitbook.io/lab-website-template-docs)).
