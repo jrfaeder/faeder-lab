@@ -62,6 +62,7 @@ sass:
 include:
   - _styles
   - _scripts
+  - .nojekyll
 
 # force jekyll to exclude certain files/folders
 exclude:
